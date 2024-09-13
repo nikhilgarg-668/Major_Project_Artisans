@@ -191,24 +191,24 @@ export const navItems = [
   export const categoriesData = [
     {
       id: 1,
-      title: "Computers and Laptops",
+      title: "Men",
       subTitle: "",
       image_Url:
-        "https://cdn.shopify.com/s/files/1/1706/9177/products/NEWAppleMacbookProwithM1ProChip14InchLaptop2021ModelMKGQ3LL_A_16GB_1TBSSD_custommacbd.jpg?v=1659592838",
+        "https://media.istockphoto.com/id/1146402207/photo/man-fastens-the-buttons-the-groom-in-a-suit-shirt-tie-is-standing-on-white-background-close-up.jpg?s=612x612&w=0&k=20&c=PFgOpa3bLAZGXK1xkRKrCwXCmaK6SOofU8hzc6SQ1OA=",
     },
     {
       id: 2,
-      title: "cosmetics and body care",
+      title: "Furniture",
       subTitle: "",
       image_Url:
-        "https://indian-retailer.s3.ap-south-1.amazonaws.com/s3fs-public/2021-07/kosme1.png",
+        "https://media.istockphoto.com/id/869078270/photo/armchair-isolated-on-white-background-3d-rendering.jpg?s=612x612&w=0&k=20&c=BSBGae3sdyCHLH911Iv3mplZFoCbjq22ryBMqGpC5Rk=",
     },
     {
       id: 3,
-      title: "Accesories",
+      title: "Women",
       subTitle: "",
       image_Url:
-        "https://img.freepik.com/free-vector/ordering-goods-online-internet-store-online-shopping-niche-e-commerce-website-mother-buying-babies-clothes-footwear-toys-infant-accessories_335657-2345.jpg?w=2000",
+        "https://media.istockphoto.com/id/1398610798/photo/young-woman-in-linen-shirt-shorts-and-high-heels-pointing-to-the-side-and-talking.jpg?s=612x612&w=0&k=20&c=JULY1xsUtiur9QPMxqrzgC2VbnhuT4dSnHWcpFQnuAQ=",
     },
     {
       id: 4,
@@ -226,30 +226,30 @@ export const navItems = [
     },
     {
       id: 6,
-      title: "Gifts",
+      title: "Pots and Pottery",
       subTitle: "",
       image_Url:
-        "https://securecdn.pymnts.com/wp-content/uploads/2014/11/Gifts-Photo-700x489.jpg",
+        "https://media.istockphoto.com/id/639487044/photo/hands-of-a-potter-creating-an-earthen-jar.jpg?s=612x612&w=0&k=20&c=gCVqR1YvUT6qZhazjpNNGzlpgh_sQQJNzXNsh0ZZEh0=",
     },
     {
       id: 7,
-      title: "Pet Care",
+      title: "Sculptures",
       subTitle: "",
-      image_Url: "https://cdn.openpr.com/T/c/Tc15444071_g.jpg",
+      image_Url: "https://media.istockphoto.com/id/901814160/photo/artist-working-on-clay-sculpture-in-art-studio.jpg?s=612x612&w=0&k=20&c=QuwIxvxbmomCa8_-S9SLfdY21pLjZVj9LQMi-IT7lrU=",
     },
     {
       id: 8,
-      title: "Mobile and Tablets",
+      title: "Carpet",
       subTitle: "",
       image_Url:
-        "https://st-troy.mncdn.com/mnresize/1500/1500/Content/media/ProductImg/original/mpwp3tua-apple-iphone-14-256gb-mavi-mpwp3tua-637986832343472449.jpg",
+        "https://media.istockphoto.com/id/647735520/photo/carpet.jpg?s=612x612&w=0&k=20&c=QcgP0fCsIi5l_ZGwCiIr1nfL671PWQrKMBadXvK8Pc0=",
     },
     {
       id: 9,
-      title: "Music and Gaming",
+      title: "Jewellery",
       subTitle: "",
       image_Url:
-        "https://static.vecteezy.com/system/resources/previews/011/996/555/original/3d-black-headphone-illustration-ecommerce-icon-png.png",
+        "https://media.istockphoto.com/id/1003612070/photo/different-goldsmiths-tools-on-the-jewelry-workplace-jeweler-at-work-in-jewelry.jpg?s=612x612&w=0&k=20&c=wxCv6escQhCmdlJuikS0WalSc18MU8mOQROWNCNvdSs=",
     },
     {
       id: 10,
@@ -613,19 +613,19 @@ export const navItems = [
   
   export const footercompanyLinks = [
     {
-      name: "Game & Video",
+      name: "Pots and Pottery",
     },
     {
-      name: "Phone &Tablets",
+      name: "Men",
     },
     {
-      name: "Computers & Laptop",
+      name: "Women",
     },
     {
-      name: "Sport Watches",
+      name: "Jewellery",
     },
     {
-      name: "Events",
+      name: "Furniture",
     },
   ];
   
