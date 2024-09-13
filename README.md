@@ -1,3 +1,4 @@
-@copyright by becodemy 2023
+@copyright by indieworks
+
 # Project_Final
 # Project_Final
